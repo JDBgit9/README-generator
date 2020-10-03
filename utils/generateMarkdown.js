@@ -5,40 +5,37 @@ function generateMarkdown(answers) {
 ${answers.description}
 
 ## Github
-# ${answers.github}
+${answers.github}
 
 ## Year Created
-# ${answers.yearcreated}
+${answers.yearcreated}
 
 # Full Name
 ${answers.fullname}
 
-
 ## Installation
-# ${answers.install}
+${answers.install}
 
 ## Usage
-# ${answers.usage}
-
-
-## Sources/links
-# Provide instructions and examples for use. Include screenshots as needed. 
-# ![](utils/README_Generator.mov)
+${answers.usage}
 
 ## Credits
-# ${answers.credits}
+${answers.credits}
 
+## Provide instructions and examples for use. Include screenshots as needed.
+${answers.instructions}
 
-## Email
-# ${answers.email}
-
-## License 
-# ${answers.license}
-
+## Sources/links
+${answers.sources}
 
 ## Badges
+${answers.badges}
 
-![Badmath](img.shields.io/github/license/JDBgit9/README.md)
+## License 
+${answers.license}
+
+## Email
+${answers.email}
 
 
 ---

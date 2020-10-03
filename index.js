@@ -39,13 +39,21 @@ inquirer.prompt([
         type: "input"
     },
     {
-        message: "Is there anyone else to credit for this project?",
+        message: "Is there anyone else who contributed to credit on this project?",
         name: "credits",
         type: "input"
     },
     {
-        message: "What is your email address?",
-        name: "email",
+        message: "Does the user have any aother instructions to help understand the project?",
+        name: "instructions",
+        type: "input"
+    },{
+        message: "Do user have any links to support the project? ",
+        name: "source",
+        type: "input"
+    },{
+        message: "Does user have any badges for this project?",
+        name: "badge",
         type: "input"
     },
     {
@@ -53,6 +61,12 @@ inquirer.prompt([
         name: "license",
         type: "input"
     },
+    {
+        message: "What is your email address?",
+        name: "email",
+        type: "input"
+    },
+    
 ])
     .then(function (answers) {
         console.log(answers);
