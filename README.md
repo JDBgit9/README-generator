@@ -16,19 +16,19 @@ James D. Beeks
 npm i
 
 ## Usage
-To learn how to generate a readme file for the user or developer, like myself, to learn how to put it together and understand what creating a readme file is for and the benefits of the practice of doing so for evry project creted. 
+To learn how to generate a readme file for the user or developer, like myself, to learn how to put it together and understand what creating a readme file is for and the benefits of the practice of doing so for every project created.
 
 ## Credits
 There were alot of people who helped me along the way and i woul like to give them credit for this completed work. Johnny D, Jorge T, JP Nevefeld, Katie Campbell, ben Brumby, Grandmother altamease Edwards, whi no longer with us. My sister Tamora and my support team from ETA, Lindsey, paul, Eileen, and Rosa.
 
 ## Provide instructions and examples for use. Include screenshots as needed.
-
+Pplease refer to the video posted separately
 
 ## Sources/links
-![alt text](https://media.giphy.com/media/wip9IAX39T0OVgJ13K/giphy.gif)
+undefined
 
 ## Badges
-![alt text](https://img.shields.io/github/license/JDBgit9/README-generator)
+undefined
 
 ## License 
 MIT (Please see License.txt for more verbiage of the licensing)

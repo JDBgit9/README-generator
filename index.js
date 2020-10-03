@@ -44,7 +44,7 @@ inquirer.prompt([
         type: "input"
     },
     {
-        message: "Does the user have any aother instructions to help understand the project?",
+        message: "Does the user have any other instructions to help understand the project more?",
         name: "instructions",
         type: "input"
     },{
