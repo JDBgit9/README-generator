@@ -25,10 +25,10 @@ There were alot of people who helped me along the way and i woul like to give th
 Pplease refer to the video posted separately
 
 ## Sources/links
-undefined
+![alt text](https://media.giphy.com/media/wip9IAX39T0OVgJ13K/giphy.gif)
 
 ## Badges
-undefined
+![alt text](https://img.shields.io/github/license/JDBgit9/README-generator)
 
 ## License 
 MIT (Please see License.txt for more verbiage of the licensing)
