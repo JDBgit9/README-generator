@@ -25,7 +25,7 @@ There were alot of people who helped me along the way and i woul like to give th
 yes. there will be a separate video explaing the process of this readme file on github. 
 
 ## Sources/links
-undefined
+![al text] (https://media.giphy.com/media/wip9IAX39T0OVgJ13K/giphy.gif)
 
 ## Badges
 ![alt text](https://img.shields.io/github/license/JDBgit9/README-generator)
