@@ -1,7 +1,5 @@
-function generateMArkdown(answers) {
-    return `
-# ${answers.title}
-    
+function generateMarkdown(answers) {
+    return `# ${answers.title}
 
 ## Description
 ${answers.description}
@@ -25,7 +23,7 @@ ${answers.fullname}
 
 ## Sources/links
 # Provide instructions and examples for use. Include screenshots as needed. 
-
+# ![](utils/README_Generator.mov)
 
 ## Credits
 # ${answers.credits}
@@ -53,4 +51,4 @@ ${answers.fullname}
     `;
 }
 
-module.exports = generateMArkdown;
+module.exports = generateMarkdown;

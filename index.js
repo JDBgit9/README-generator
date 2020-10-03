@@ -1,11 +1,7 @@
-// require all node packages
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMArkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown");
 
-
-
-// set up inqurirer with all necessary questions
 inquirer.prompt([
     {
         message: "What is your project name?",
@@ -28,16 +24,15 @@ inquirer.prompt([
         type: "input"
     },
     {
-        message: "What is the full name of the user attaining the license",
+        message: "What is the full name of the user attaining the license?",
         name: "fullname",
         type: "input"
     },
     {
-        message: "What command should be run to install dependencies",
+        message: "What command should be run to install dependencies?",
         name: "install",
         type: "input"
     },
-
     {
         message: "What is the purpose of this project?",
         name: "usage",
@@ -61,8 +56,13 @@ inquirer.prompt([
 ])
     .then(function (answers) {
         console.log(answers);
-    
-        const generatedFile = generateMArkdown(answers)
-    
-        console.log(generatedFile);
-    } )
+
+        const generatedFile = generateMarkdown(answers)
+
+        fs.writeFile("README.md", generatedFile, (err) => {
+            if (err) {
+                return console.log(err);
+            }
+            console.log("File written!");
+        });
+    })
