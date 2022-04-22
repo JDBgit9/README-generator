@@ -34,7 +34,7 @@ Please refer to the video posted separately
 MIT (Please see License.txt for more verbiage of the licensing)
 
 ## Email
-info@jamesdbeeks.com
+jamesthejust99@outlook.com
 
 
 ---
