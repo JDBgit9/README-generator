@@ -22,7 +22,7 @@ To learn how to generate a readme file for the user or developer, like myself, t
 There were alot of people who helped me along the way and i woul like to give them credit for this completed work. Johnny D, Jorge T, JP Nevefeld, Katie Campbell, Ben Brumby, Grandmother Altamease Edwards, who is no longer with us. My sister Tamora and my support team from ETA, Lindsey, Paul, Eileen, and Rosa.
 
 ## Provide instructions and examples for use. Include screenshots as needed.
-Pplease refer to the video posted separately
+Please refer to the video posted separately
 
 ## Sources/links
 ![alt text](https://media.giphy.com/media/wip9IAX39T0OVgJ13K/giphy.gif)
