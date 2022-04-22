@@ -10,7 +10,7 @@ JDBgit9
 2020
 
 # Full Name
-James D. Beeks
+James Justis
 
 ## Installation
 npm i
