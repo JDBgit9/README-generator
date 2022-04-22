@@ -39,7 +39,7 @@ ${answers.email}
 
 
 ---
-© 2020 James D Beeks developer readme, a Delisco, Inc. brand. All Rights Reserved.
+© 2022 James Justis developer readme, a Justis Inc. brand. All Rights Reserved.
 
 
 
